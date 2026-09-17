@@ -1,220 +1,116 @@
-<!-- ====================================================== -->
-<!--                    HERO SECTION                        -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    SUMIT YADAV                            -->
+<!--              GitHub Profile README                        -->
+<!-- ========================================================= -->
+
+<!-- ===================== ANIMATED HERO ===================== -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumit-Yadav2611/Sumit-Yadav2611/main/assets/banner.png" width="100%" alt="Sumit Yadav - Computer Science Engineer">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:0f172a,75:1d4ed8,100:06b6d4&text=SUMIT%20YADAV&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEER&descSize=22&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Sumit Yadav Animated Header"
+  />
 </p>
 
-<h1 align="center">
-   Hi, I'm Sumit Yadav
-</h1>
-
-<h3 align="center">
-  Computer Science & Engineering Student | Software Developer
-</h3>
+<!-- ===================== TYPING INTRO ====================== -->
 
 <p align="center">
-  <b>Building software that solves real-world problems 🚀</b>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real-world+problems;Full-Stack+Developer+%7C+Problem+Solver;Exploring+AI%2FML+%7C+DSA+%7C+System+Design;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
+  <b>
+    💻 Software Development • 🧠 Problem Solving • 🤖 AI/ML • 🚀 Real-World Projects
+  </b>
+</p>
+
+<br>
+
+<!-- ======================== SOCIALS ======================== -->
+
+<p align="center">
+
+<a href="https://github.com/Sumit-Yadav2611">
+  <img
+    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 <a href="https://www.linkedin.com/in/sumit-yadav-8a8929357/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://my-portfolio-49e7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://leetcode.com/u/Sumit_Krishna/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
 </a>
 
 <a href="https://youtube.com/@sumitkrishnanitp">
-<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
 </a>
 
 </p>
 
 ---
 
-<!-- ====================================================== -->
-<!--                     ABOUT ME                           -->
-<!-- ====================================================== -->
+<!-- ======================== ABOUT ========================== -->
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student at NIT Patna** who enjoys building practical software, solving programming problems, and exploring modern technologies.
+<p align="center">
 
-I believe in learning by building — turning ideas into working applications and continuously improving my skills.
+I'm a <b>Computer Science & Engineering student at NIT Patna</b>
+passionate about building practical software and solving real-world problems.
 
-- 🎓 B.Tech — Computer Science & Engineering
-- 🏫 **NIT Patna**
-- 💻 Interested in **Software Development**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌐 Building **Full-Stack Web Applications**
-- 🤖 Exploring **AI / Machine Learning**
-- 🚀 Building projects that solve real-world problems
-- 📚 Always learning, building and improving
+I enjoy turning ideas into working applications while continuously improving
+my problem-solving and software engineering skills.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
+<br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🤖 JobBuddy AI</h3>
+### 🎓 Education
 
-<p>
-An AI-powered resume builder designed to help users create professional and ATS-friendly resumes.
-</p>
-
-<p>
-<b>Tech:</b><br>
-React • Tailwind CSS • PostgreSQL • Drizzle • Clerk
-</p>
-
-<p>
-<a href="https://github.com/Sumit-Yadav2611/JobBuddy-AI">
-<img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+- 🏫 **NIT Patna**
+- 💻 **B.Tech — Computer Science & Engineering**
+- 🇮🇳 India
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🌦️ Weather Hub</h3>
+### 💡 Interests
 
-<p>
-A responsive weather application providing real-time weather information, forecasts, AQI, location search and weather maps.
-</p>
-
-<p>
-<b>Tech:</b><br>
-React • Tailwind CSS • OpenWeatherMap API
-</p>
-
-<p>
-<a href="https://github.com/Sumit-Yadav2611/Weather-Hub">
-<img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🤖 SumoChat AI</h3>
-
-<p>
-An AI-powered assistant exploring conversational AI, document understanding, vision and generative AI features.
-</p>
-
-<p>
-<b>Tech:</b><br>
-React • AI APIs • JavaScript
-</p>
-
-<p>
-<a href="https://github.com/Sumit-Yadav2611/SumoChat-AI">
-<img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h3>🛒 ShopHub E-Commerce</h3>
-
-<p>
-Full-stack e-commerce application with authentication, product management and backend APIs.
-</p>
-
-<p>
-<b>Tech:</b><br>
-Node.js • Express • MongoDB • Mongoose
-</p>
-
-<p>
-<a href="https://github.com/Sumit-Yadav2611/ShopHub-Ecommerce">
-<img src="https://img.shields.io/badge/View%20Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>💼 Portfolio</h3>
-
-<p>
-My personal developer portfolio showcasing my projects, skills, experience and journey as a software developer.
-</p>
-
-<p>
-<b>Built with:</b><br>
-React • Tailwind CSS • Vercel
-</p>
-
-<p>
-<a href="https://my-portfolio-49e7.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🧩 More Projects</h3>
-
-<p>
-Explore my GitHub repositories to see more experiments, learning projects and development work.
-</p>
-
-<p>
-<a href="https://github.com/Sumit-Yadav2611?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+- 🌐 Full-Stack Development
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🏗️ Software Engineering
 
 </td>
 
@@ -223,21 +119,205 @@ Explore my GitHub repositories to see more experiments, learning projects and de
 
 ---
 
+<!-- ===================== TECH STACK ======================== -->
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" alt="Web Development"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" alt="Tools and Platforms"/>
+</p>
+
+---
+
+<!-- ===================== PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🤖 JobBuddy AI
+
+AI-powered resume builder designed to help users create professional and ATS-friendly resumes.
+
+### Tech
+
+`React` `Tailwind CSS`  
+`PostgreSQL` `Drizzle` `Clerk`
+
+<br>
+
+<a href="https://github.com/Sumit-Yadav2611/JobBuddy-AI">
+  <img
+    src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="JobBuddy AI"
+  />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🌦️ Weather Hub
+
+Responsive weather application providing real-time weather information, forecasts, AQI, location search and weather maps.
+
+### Tech
+
+`React` `Tailwind CSS`  
+`OpenWeatherMap API`
+
+<br>
+
+<a href="https://github.com/Sumit-Yadav2611/Weather-Hub">
+  <img
+    src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Weather Hub"
+  />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 SumoChat AI
+
+AI-powered assistant exploring conversational AI, document understanding, vision and generative AI.
+
+### Tech
+
+`React` `JavaScript`  
+`AI APIs`
+
+<br>
+
+<a href="https://github.com/Sumit-Yadav2611/SumoChat-AI">
+  <img
+    src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="SumoChat AI"
+  />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🛒 ShopHub E-Commerce
+
+Full-stack e-commerce application with authentication, product management and backend APIs.
+
+### Tech
+
+`Node.js` `Express`  
+`MongoDB` `Mongoose`
+
+<br>
+
+<a href="https://github.com/Sumit-Yadav2611/ShopHub-Ecommerce">
+  <img
+    src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="ShopHub E-Commerce"
+  />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 💼 Developer Portfolio
+
+Personal portfolio showcasing my projects, skills and journey as a software developer.
+
+### Built With
+
+`React` `Tailwind CSS`  
+`Vercel`
+
+<br>
+
+<a href="https://my-portfolio-49e7.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Portfolio"
+  />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🧩 More Projects
+
+Explore my repositories to see additional projects, experiments and development work.
+
+<br><br>
+
+<a href="https://github.com/Sumit-Yadav2611?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore%20All%20Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white"
+    alt="All Projects"
+  />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== PROBLEM SOLVING ================== -->
+
 # 🧠 Problem Solving
 
 <p align="center">
 
 <a href="https://leetcode.com/u/Sumit_Krishna/">
-<img src="https://img.shields.io/badge/LeetCode-Sumit__Krishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img
+    src="https://img.shields.io/badge/LeetCode-Sumit__Krishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode Profile"
+  />
 </a>
 
 </p>
 
 <p align="center">
-  <i>Practicing Data Structures & Algorithms and improving problem-solving skills.</i>
+  <i>
+    Solving problems, learning algorithms and improving one step at a time.
+  </i>
 </p>
 
 ---
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 # 📊 GitHub Statistics
 
@@ -246,11 +326,13 @@ Explore my GitHub repositories to see more experiments, learning projects and de
 <img
   src="https://github-readme-stats.vercel.app/api?username=Sumit-Yadav2611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   height="180"
+  alt="GitHub Statistics"
 />
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Yadav2611&theme=tokyonight&hide_border=true"
   height="180"
+  alt="GitHub Streak"
 />
 
 </p>
@@ -260,84 +342,274 @@ Explore my GitHub repositories to see more experiments, learning projects and de
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Yadav2611&layout=compact&theme=tokyonight&hide_border=true"
   height="180"
+  alt="Top Languages"
 />
 
 </p>
 
 ---
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
 # 🏆 Achievements
 
-- 🎯 **98.76 percentile** in JEE Main
-- 📚 **95%** in Class 12
-- 🎓 B.Tech CSE at **NIT Patna**
-- 🏑 School Hockey Team Champion
-- 🥇 Multiple district-level sports medals
-- 💻 Continuously improving DSA and software development
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack%20Development-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-F97316?style=for-the-badge"/>
-
-</p>
-
-- 🧩 Advanced Data Structures & Algorithms
-- 🌐 Full-Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🏗️ System Design
-- 💡 Problem Solving
-
----
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 🎯 What I'm Working Toward
-
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🚀 Engineering Goals
+### 🎓 Academic
 
-- 🧠 Master **Data Structures & Algorithms**
-- 🌐 Build production-ready **full-stack applications**
-- 🤖 Develop practical **AI-powered systems**
-- 🏗️ Learn **System Design & scalable architecture**
-- 🌍 Start contributing to **Open Source**
+- 🎯 **98.76 percentile** — JEE Main
+- 📚 **95%** — Class 12
+- 💻 **B.Tech CSE** — NIT Patna
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 My Development Philosophy
+### 🏑 Sports
+
+- 🏆 School Hockey Team Champion
+- 🥇 Multiple district-level medals
+- ⚽ Passionate about sports & fitness
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ============== -->
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"
+  alt="DSA"
+/>
+
+<img
+  src="https://img.shields.io/badge/Full--Stack-16A34A?style=for-the-badge"
+  alt="Full Stack"
+/>
+
+<img
+  src="https://img.shields.io/badge/AI%20%2F%20ML-9333EA?style=for-the-badge"
+  alt="AI ML"
+/>
+
+<img
+  src="https://img.shields.io/badge/System%20Design-F97316?style=for-the-badge"
+  alt="System Design"
+/>
+
+</p>
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat
+🧠 Data Structures & Algorithms
+🌐 Full-Stack Development
+🤖 Artificial Intelligence & Machine Learning
+🏗️ System Design
+💡 Problem Solving
+```
+
+---
+
+<!-- ===================== CONTRIBUTION JOURNEY ============= -->
+
+# 🐍 Contribution Journey
+
+<p align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
+</p>
+
+---
+
+<!-- ===================== GOALS ============================= -->
+
+# 🎯 What I'm Working Toward
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Engineering Goals
+
+- 🧠 Master Data Structures & Algorithms
+- 🌐 Build production-ready applications
+- 🤖 Develop practical AI-powered systems
+- 🏗️ Learn scalable software architecture
+- 🌍 Contribute to Open Source
+- 📈 Become a stronger software engineer
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 My Development Loop
+
+```text
+        ┌─────────┐
+        │  Learn  │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │  Build  │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │  Break  │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │  Debug  │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │ Improve │
+        └────┬────┘
+             ↓
+        ┌─────────┐
+        │ Repeat  │
+        └─────────┘
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== 3D CONTRIBUTIONS ================= -->
+
+# 🌌 My GitHub in 3D
+
+<p align="center">
+
+  <img
+    src="./profile-3d-contrib/profile-season-animate.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
+
+</p>
+
+<p align="center">
+  <i>
+    A visual representation of my GitHub contribution activity.
+  </i>
+</p>
+
+---
+
+<!-- ===================== EXPLORE =========================== -->
+
+# ⭐ Explore My Work
+
+<p align="center">
+
+<a href="https://github.com/Sumit-Yadav2611?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Repositories"
+  />
+</a>
+
+<a href="https://my-portfolio-49e7.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Visit Portfolio"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Every project is another step forward. 🚀</i>
+</p>
+
+---
+
+<!-- ===================== CONNECT =========================== -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumit-yadav-8a8929357/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://my-portfolio-49e7.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://leetcode.com/u/Sumit_Krishna/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="https://youtube.com/@sumitkrishnanitp">
+  <img
+    src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
+
+<a href="mailto:sumitkrishna1126@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</p>
+
+---
+
+<!-- ===================== FINAL MESSAGE ==================== -->
+
+<p align="center">
+
+## 🚀 Build. Learn. Improve. Repeat.
+
+<i>
+Turning curiosity into code and ideas into real-world solutions.
+</i>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Sumit-Yadav2611&label=Profile%20Views&color=2563EB&style=flat-square"
+  alt="Profile views"
+/>
+
+<br><br>
+
+<b>Thanks for visiting my profile! ⭐</b>
+
+</p>
