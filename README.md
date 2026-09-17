@@ -1,13 +1,12 @@
 <!-- ====================================================== -->
 <!--                    HERO SECTION                        -->
 <!-- ====================================================== -->
-
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sumit-Yadav2611/Sumit-Yadav2611/main/assets/banner.png" width="100%" alt="Sumit Yadav - Computer Science Engineer">
 </p>
 
 <h1 align="center">
-  👋 Hi, I'm Sumit Yadav
+   Hi, I'm Sumit Yadav
 </h1>
 
 <h3 align="center">
