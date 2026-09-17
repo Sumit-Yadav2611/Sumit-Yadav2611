@@ -296,9 +296,48 @@ Explore my GitHub repositories to see more experiments, learning projects and de
 
 ---
 
-# 🎯 Goals
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 🎯 What I'm Working Toward
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Engineering Goals
+
+- 🧠 Master **Data Structures & Algorithms**
+- 🌐 Build production-ready **full-stack applications**
+- 🤖 Develop practical **AI-powered systems**
+- 🏗️ Learn **System Design & scalable architecture**
+- 🌍 Start contributing to **Open Source**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 My Development Philosophy
 
 ```text
-Build       →   Learn       →   Improve
-   ↑                              ↓
-   └──────────── Repeat ──────────┘
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat
