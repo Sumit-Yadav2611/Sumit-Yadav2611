@@ -3,29 +3,38 @@
 <!--              GitHub Profile README                        -->
 <!-- ========================================================= -->
 
-<!-- ===================== ANIMATED HERO ===================== -->
+<!-- ===================== FUTURISTIC HERO ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:0f172a,75:1d4ed8,100:06b6d4&text=SUMIT%20YADAV&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEER&descSize=22&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SUMIT%20YADAV&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20ENGINEER&descSize=22&descAlignY=60&color=0:020617,25:061535,50:123B8A,75:075985,100:020617&animation=fadeIn"
     width="100%"
-    alt="Sumit Yadav Animated Header"
+    alt="SUMIT YADAV"
   />
 </p>
 
-<!-- ===================== TYPING INTRO ====================== -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real-world+problems;Full-Stack+Developer+%7C+Problem+Solver;Exploring+AI%2FML+%7C+DSA+%7C+System+Design;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=%3C+BUILDING+A+BETTER+TOMORROW+%2F%3E;TURNING+IDEAS+INTO+IMPACT;FULL-STACK+DEVELOPER+%7C+PROBLEM+SOLVER;EXPLORING+AI%2FML+%7C+DSA+%7C+SYSTEM+DESIGN;BUILD+%E2%80%A2+LEARN+%E2%80%A2+IMPROVE+%E2%80%A2+REPEAT"
+    alt="Animated introduction"
   />
 </p>
 
 <p align="center">
   <b>
-    💻 Software Development • 🧠 Problem Solving • 🤖 AI/ML • 🚀 Real-World Projects
+    💻 SOFTWARE DEVELOPMENT
+    &nbsp; • &nbsp;
+    🧠 PROBLEM SOLVING
+    &nbsp; • &nbsp;
+    🤖 AI / ML
+    &nbsp; • &nbsp;
+    🚀 REAL-WORLD PROJECTS
   </b>
+</p>
+
+<br>
+<p align="center">
+  <i>Same Student. Bigger Dreams.</i>
 </p>
 
 <br>
@@ -126,25 +135,37 @@ my problem-solving and software engineering skills.
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Languages"/>
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,java"
+    alt="Programming Languages"
+  />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" alt="Web Development"/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express"
+    alt="Web Development"
+  />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases"/>
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"
+    alt="Databases"
+  />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" alt="Tools and Platforms"/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel"
+    alt="Tools and Platforms"
+  />
 </p>
 
 ---
